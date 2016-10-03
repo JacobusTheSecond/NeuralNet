@@ -267,6 +267,7 @@ bool Node::setValue(double v)
 }
 
 int main() {
+	//test
 	srand(time(NULL));
 	NeuralNet nn (2,4,1);
 	double array00[2] = { 0.0 , 0.0 };
